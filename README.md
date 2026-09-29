@@ -1,7 +1,36 @@
-# Data
+# Fraud Detection Analysis
 
-Raw and processed datasets are intentionally excluded from this public repository.
+## 📌 Project Overview
+This project focuses on analyzing banking data to identify patterns associated with fraud and credit risk.
 
-The project uses banking/credit-related data. Check datasets for personally identifiable or sensitive information before publishing them.
+## 🛠️ Technologies Used
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
+- Power BI
+- Jupyter Notebook
 
-Place an authorized local dataset in the appropriate `data/` folder and update the notebook/script path if necessary.
+## 🔍 Key Analysis
+- Exploratory Data Analysis (EDA)
+- Data Cleaning and Preprocessing
+- Credit Score Analysis
+- Fraud Risk Analysis
+- Anomaly Detection using Isolation Forest
+- Data Visualization
+
+## 🤖 Machine Learning
+Isolation Forest is used to identify unusual/anomalous financial records and support fraud-risk analysis.
+
+## 📊 Dashboard
+Power BI was used to create interactive dashboards for analyzing credit scores, financial behavior, and fraud risk.
+
+## 📁 Project Structure
+
+```text
+notebooks/     → Jupyter notebooks
+src/           → Python source code
+outputs/       → Analysis charts
+data/          → Dataset information
